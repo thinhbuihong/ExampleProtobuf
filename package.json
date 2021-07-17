@@ -1,0 +1,9 @@
+{
+  "name": "protocolBuffers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "google-protobuf": "^3.17.3"
+  }
+}
